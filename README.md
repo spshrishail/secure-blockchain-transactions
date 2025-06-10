@@ -107,8 +107,8 @@ The system consists of three main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/secure-transaction.git
-cd secure-transaction
+git clone https://github.com/Ganga-H/secure-blockchain-transaction.git
+cd secure-blockchain-transaction
 ```
 
 2. Install root dependencies:
