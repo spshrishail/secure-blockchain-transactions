@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🔐 Secure Transaction System
+=======
+# 🔐 secure-blockchain-transactions
+>>>>>>> 95141b9e06affa942c8f40dc1703bea46d0f573f
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
@@ -107,8 +111,13 @@ The system consists of three main components:
 
 1. Clone the repository:
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/Ganga-H/secure-blockchain-transaction.git
 cd secure-blockchain-transaction
+=======
+git clone https://github.com/spshrishail/secure-blockchain-transactions.git
+cd secure-blockchain-transactions
+>>>>>>> 95141b9e06affa942c8f40dc1703bea46d0f573f
 ```
 
 2. Install root dependencies:
@@ -236,5 +245,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
+<<<<<<< HEAD
   <p>Built with ❤️ by Your Team</p>
 </div> 
+=======
+  <p>Built with ❤️ by  SP Shrishail</p>
+</div> 
+>>>>>>> 95141b9e06affa942c8f40dc1703bea46d0f573f
