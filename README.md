@@ -1,4 +1,4 @@
-# 🔐 Secure Transaction System
+# 🔐 secure-blockchain-transactions
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
@@ -107,8 +107,8 @@ The system consists of three main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/secure-transaction.git
-cd secure-transaction
+git clone https://github.com/spshrishail/secure-blockchain-transactions.git
+cd secure-blockchain-transactions
 ```
 
 2. Install root dependencies:
@@ -236,5 +236,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Your Team</p>
+  <p>Built with ❤️ by  SP Shrishail</p>
 </div> 
